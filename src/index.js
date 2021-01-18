@@ -40,7 +40,7 @@ function Body() {
       <main>
         <div className="frame">
           <div className="frame__title-wrap">
-            <h1 className="frame__title">Silver Fest 3.0</h1>
+            <h1 className="frame__title">Silver Fest 5.0</h1>
             <p className="frame__tagline">stay tuned for further updates</p>
           </div>
           <div className="frame__demos">

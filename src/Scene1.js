@@ -26,7 +26,7 @@ function Title({ layers, ...props }) {
   return (
     <group {...props} ref={group}>
       <Text ref={textRef} name="text-panna" depthTest={false} material-toneMapped={false} material-color="#FFFFFF" {...TEXT_PROPS}>
-        SILVER FEST 3.0
+        SILVER FEST 5.0
       </Text>
       
     </group>
